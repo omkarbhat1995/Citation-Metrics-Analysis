@@ -38,6 +38,6 @@ Set your API key as an environment variable to ensure it is not hardcoded into y
 
 Output
 The scripts will generate a data/ directory containing:
--`metrics.csv`: A high-level overview of all processed DOIs, including the calculated AAG citation percentages.
--`{paper_doi}_real_papers.csv`: A full list of all papers citing the target DOI.
--`{paper_doi}_refined_real_papers.csv`: The refined list of citing papers, with AAG-associated papers removed.
+* `metrics.csv`: A high-level overview of all processed DOIs, including the calculated AAG citation percentages.
+* `{paper_doi}_real_papers.csv`: A full list of all papers citing the target DOI.
+* `{paper_doi}_refined_real_papers.csv`: The refined list of citing papers, with AAG-associated papers removed.
