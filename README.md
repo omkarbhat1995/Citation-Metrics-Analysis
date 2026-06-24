@@ -19,7 +19,7 @@ You will need Python 3.x and the `requests` library.
 ## Setup & Authentication
 This script requires a Semantic Scholar API key to increase rate limits.
 
-##Obtain an API key from Semantic Scholar.
+# Obtain an API key from Semantic Scholar.
 
 Set your API key as an environment variable to ensure it is not hardcoded into your scripts:
 
